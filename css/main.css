@@ -1,0 +1,27 @@
+* {
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+body {
+    background-color: #FAEBEF;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+#poem-title {
+    top: 5%;
+    position: absolute;
+    font-size: 60px;
+    color: #D61160;
+}
+
+#poem-body {
+    top: 20%;
+    font-size: 18px;
+    position: fixed;
+    color: #ED91B4;
+
+}
+
