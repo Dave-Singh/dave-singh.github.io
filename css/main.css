@@ -11,16 +11,16 @@ body {
 }
 
 #poem-title {
-    top: 5%;
-    position: absolute;
-    font-size: 60px;
+    top: 4%;
+    position: relative;
+    font-size: 5rem;
     color: #D61160;
 }
 
 #poem-body {
     top: 20%;
-    font-size: 18px;
-    position: fixed;
+    font-size: 2rem;
+    position: absolute;
     color: #ED91B4;
 
 }
